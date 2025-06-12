@@ -1,0 +1,16 @@
+{
+  "chain_name": "sputnik",
+  "api": ["http://77.237.244.209:1327"],
+  "rpc": ["http://207.244.228.124:26757"],
+  "coin_type": "118",
+  "addr_prefix": "sputnik",
+  "logo": "sputnik.png",
+  "theme_color": "#161723",
+  "assets": [
+    {
+      "base": "usignal",
+      "symbol": "SIGNAL",
+      "exponent": "6"
+    }
+  ]
+}
