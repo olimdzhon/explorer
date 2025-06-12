@@ -1,7 +1,7 @@
 {
   "chain_name": "sputnik",
-  "api": ["http://77.237.244.209:1327"],
-  "rpc": ["http://77.237.244.209:36657"],
+  "api": [{ "provider": "Olimjon", "address": "http://77.237.244.209:1327" }],
+  "rpc": [{ "provider": "Olimjon", "address": "http://77.237.244.209:36657" }],
   "coin_type": "118",
   "addr_prefix": "sputnik",
   "logo": "sputnik.png",
